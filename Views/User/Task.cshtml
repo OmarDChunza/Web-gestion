@@ -1,5 +1,27 @@
-﻿@*
-    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
-*@
-@{
+﻿@{
+    ViewData["Title"] = "Tareas";
 }
+
+<h1>Tareas</h1>
+
+
+<table>
+    <tr>
+        <th>Id</th>
+        <th>Usuario</th>
+        <th>Descripcion</th>
+        <th>Estado</th>
+    </tr>
+    @foreach (var Task in Model.Task)
+    {
+        <tr>
+            <td>@Task.Id</td>
+            <td>@Task.User</td>
+            <td>@Task.Description</td>
+            <td>@Task.IsApproved</td>
+            <td>
+                <a href="@Url.Action("Edit", new{Id = Task.Id})">Editar</a>
+            </td>
+        </tr>
+    }
+</table>
