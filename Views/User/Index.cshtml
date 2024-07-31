@@ -1,0 +1,27 @@
+﻿@{
+    ViewData["Title"] = "Usuarios";
+}
+
+<h1>Usuarios</h1>
+
+
+<table>
+    <tr>
+        <th>Id</th>
+        <th>Nombre</th>
+        <th>E-mail</th>
+        <th>Gestion</th>
+    </tr>
+    @foreach (var User in Model.User)
+    {
+        <tr>
+            <td>@User.Id</td>
+            <td>@User.Name</td>
+            <td>@User.Email</td>
+            <td>
+                <a href="@Url.Action("Edit", new{Id = User.Id})">Editar</a>
+                <a href="@Url.Action("Delete", new{Id = User.Id})">Eliminar</a>
+            </td>
+        </tr>
+    }
+</table>
