@@ -3,44 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\granm\\Documents\\Desarrollo\\WEB_GESTION\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C598761C-0CCB-4A88-8478-ABA0398DA97F}|WEB_GESTION.csproj|c:\\users\\granm\\documents\\desarrollo\\web_gestion\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C598761C-0CCB-4A88-8478-ABA0398DA97F}|WEB_GESTION.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C598761C-0CCB-4A88-8478-ABA0398DA97F}|WEB_GESTION.csproj|c:\\users\\granm\\documents\\desarrollo\\web_gestion\\views\\user\\task.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C598761C-0CCB-4A88-8478-ABA0398DA97F}|WEB_GESTION.csproj|solutionrelative:views\\user\\task.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C598761C-0CCB-4A88-8478-ABA0398DA97F}|WEB_GESTION.csproj|c:\\users\\granm\\documents\\desarrollo\\web_gestion\\models\\taks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C598761C-0CCB-4A88-8478-ABA0398DA97F}|WEB_GESTION.csproj|solutionrelative:models\\taks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C598761C-0CCB-4A88-8478-ABA0398DA97F}|WEB_GESTION.csproj|c:\\users\\granm\\documents\\desarrollo\\web_gestion\\controllers\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C598761C-0CCB-4A88-8478-ABA0398DA97F}|WEB_GESTION.csproj|solutionrelative:controllers\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C598761C-0CCB-4A88-8478-ABA0398DA97F}|WEB_GESTION.csproj|c:\\users\\granm\\documents\\desarrollo\\web_gestion\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C598761C-0CCB-4A88-8478-ABA0398DA97F}|WEB_GESTION.csproj|solutionrelative:views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C598761C-0CCB-4A88-8478-ABA0398DA97F}|WEB_GESTION.csproj|c:\\users\\granm\\documents\\desarrollo\\web_gestion\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C598761C-0CCB-4A88-8478-ABA0398DA97F}|WEB_GESTION.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C598761C-0CCB-4A88-8478-ABA0398DA97F}|WEB_GESTION.csproj|c:\\users\\granm\\documents\\desarrollo\\web_gestion\\controllers\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C598761C-0CCB-4A88-8478-ABA0398DA97F}|WEB_GESTION.csproj|solutionrelative:controllers\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C598761C-0CCB-4A88-8478-ABA0398DA97F}|WEB_GESTION.csproj|c:\\users\\granm\\documents\\desarrollo\\web_gestion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C598761C-0CCB-4A88-8478-ABA0398DA97F}|WEB_GESTION.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C598761C-0CCB-4A88-8478-ABA0398DA97F}|WEB_GESTION.csproj|c:\\users\\granm\\documents\\desarrollo\\web_gestion\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C598761C-0CCB-4A88-8478-ABA0398DA97F}|WEB_GESTION.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C598761C-0CCB-4A88-8478-ABA0398DA97F}|WEB_GESTION.csproj|c:\\users\\granm\\documents\\desarrollo\\web_gestion\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C598761C-0CCB-4A88-8478-ABA0398DA97F}|WEB_GESTION.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C598761C-0CCB-4A88-8478-ABA0398DA97F}|WEB_GESTION.csproj|c:\\users\\granm\\documents\\desarrollo\\web_gestion\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{C598761C-0CCB-4A88-8478-ABA0398DA97F}|WEB_GESTION.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{C598761C-0CCB-4A88-8478-ABA0398DA97F}|WEB_GESTION.csproj|c:\\users\\granm\\documents\\desarrollo\\web_gestion\\models\\taks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C598761C-0CCB-4A88-8478-ABA0398DA97F}|WEB_GESTION.csproj|solutionrelative:models\\taks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C598761C-0CCB-4A88-8478-ABA0398DA97F}|WEB_GESTION.csproj|c:\\users\\granm\\documents\\desarrollo\\web_gestion\\controllers\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C598761C-0CCB-4A88-8478-ABA0398DA97F}|WEB_GESTION.csproj|solutionrelative:controllers\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C598761C-0CCB-4A88-8478-ABA0398DA97F}|WEB_GESTION.csproj|c:\\users\\granm\\documents\\desarrollo\\web_gestion\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C598761C-0CCB-4A88-8478-ABA0398DA97F}|WEB_GESTION.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,75 +42,54 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "C:\\Users\\granm\\Documents\\Desarrollo\\WEB_GESTION\\Views\\Shared\\Error.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
-              "ToolTip": "C:\\Users\\granm\\Documents\\Desarrollo\\WEB_GESTION\\Views\\Shared\\Error.cshtml",
-              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-31T17:21:52.883Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\granm\\Documents\\Desarrollo\\WEB_GESTION\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\granm\\Documents\\Desarrollo\\WEB_GESTION\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-31T16:33:49.718Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\granm\\Documents\\Desarrollo\\WEB_GESTION\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\granm\\Documents\\Desarrollo\\WEB_GESTION\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAABoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-06T18:38:15.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Task.cshtml",
               "DocumentMoniker": "C:\\Users\\granm\\Documents\\Desarrollo\\WEB_GESTION\\Views\\User\\Task.cshtml",
               "RelativeDocumentMoniker": "Views\\User\\Task.cshtml",
               "ToolTip": "C:\\Users\\granm\\Documents\\Desarrollo\\WEB_GESTION\\Views\\User\\Task.cshtml",
               "RelativeToolTip": "Views\\User\\Task.cshtml",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAIwBQAAAAlAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-31T17:17:12.294Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\granm\\Documents\\Desarrollo\\WEB_GESTION\\Views\\User\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\User\\Index.cshtml",
               "ToolTip": "C:\\Users\\granm\\Documents\\Desarrollo\\WEB_GESTION\\Views\\User\\Index.cshtml",
               "RelativeToolTip": "Views\\User\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAIwBoAAAAIAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-31T16:32:45.014Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Task.cs",
-              "DocumentMoniker": "C:\\Users\\granm\\Documents\\Desarrollo\\WEB_GESTION\\Controllers\\Task.cs",
-              "RelativeDocumentMoniker": "Controllers\\Task.cs",
-              "ToolTip": "C:\\Users\\granm\\Documents\\Desarrollo\\WEB_GESTION\\Controllers\\Task.cs",
-              "RelativeToolTip": "Controllers\\Task.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T16:27:37.935Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 3,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\granm\\Documents\\Desarrollo\\WEB_GESTION\\Controllers\\User.cs",
               "RelativeDocumentMoniker": "Controllers\\User.cs",
@@ -126,60 +97,60 @@
               "RelativeToolTip": "Controllers\\User.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T16:26:49.804Z"
+              "WhenOpened": "2024-07-31T16:26:49.804Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\granm\\Documents\\Desarrollo\\WEB_GESTION\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\granm\\Documents\\Desarrollo\\WEB_GESTION\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAAeAAAA",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAqwBgAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T16:20:08.801Z"
+              "WhenOpened": "2024-07-31T16:20:08.801Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\granm\\Documents\\Desarrollo\\WEB_GESTION\\Models\\User.cs",
               "RelativeDocumentMoniker": "Models\\User.cs",
               "ToolTip": "C:\\Users\\granm\\Documents\\Desarrollo\\WEB_GESTION\\Models\\User.cs",
               "RelativeToolTip": "Models\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAADgvwsAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T16:09:03.321Z"
+              "WhenOpened": "2024-07-31T16:09:03.321Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Taks.cs",
               "DocumentMoniker": "C:\\Users\\granm\\Documents\\Desarrollo\\WEB_GESTION\\Models\\Taks.cs",
               "RelativeDocumentMoniker": "Models\\Taks.cs",
               "ToolTip": "C:\\Users\\granm\\Documents\\Desarrollo\\WEB_GESTION\\Models\\Taks.cs",
               "RelativeToolTip": "Models\\Taks.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAVAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-31T16:07:09.248Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\granm\\Documents\\Desarrollo\\WEB_GESTION\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "C:\\Users\\granm\\Documents\\Desarrollo\\WEB_GESTION\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-31T15:36:29.849Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "WhenOpened": "2024-07-31T15:36:29.849Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -12,15 +12,14 @@
         <th>Descripcion</th>
         <th>Estado</th>
     </tr>
-    @foreach (var Task in Model.Task)
     {
         <tr>
-            <td>@Task.Id</td>
-            <td>@Task.User</td>
-            <td>@Task.Description</td>
-            <td>@Task.IsApproved</td>
+            <td>001</td>
+            <td>Coloaborador 1</td>
+            <td>Se solicita mantenimineto de la apliacion administrativa, se estan generando fallas al guardar.</td>
+            <td>En Proceso</td>
             <td>
-                <a href="@Url.Action("Edit", new{Id = Task.Id})">Editar</a>
+                <a href="@Url.Action("Edit", new{Id = 001})">Editar</a>
             </td>
         </tr>
     }
