@@ -35,3 +35,4 @@ C:\Users\granm\Documents\Desarrollo\WEB_GESTION\bin\Debug\net8.0\Npgsql.dll
 C:\Users\granm\Documents\Desarrollo\WEB_GESTION\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
 C:\Users\granm\Documents\Desarrollo\WEB_GESTION\obj\Debug\net8.0\WEB_GESTION.csproj.AssemblyReference.cache
 C:\Users\granm\Documents\Desarrollo\WEB_GESTION\obj\Debug\net8.0\WEB_GEST.FD2CEA4D.Up2Date
+c:\Users\granm\Documents\Desarrollo\WEB_GESTION\obj\Debug\net8.0\WEB_GESTION.sourcelink.json
